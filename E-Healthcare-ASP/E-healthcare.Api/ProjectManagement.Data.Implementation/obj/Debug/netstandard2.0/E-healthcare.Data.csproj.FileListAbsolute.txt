@@ -1,0 +1,2 @@
+C:\Users\vimal_k1\Downloads\E-Healthcare-BackendProject (1)\E-Healthcare-BackendProject\E-Healthcare-BackendProject\E-Healthcare-ASP\E-healthcare.Api\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.AssemblyInfoInputs.cache
+C:\Users\vimal_k1\Downloads\E-Healthcare-BackendProject (1)\E-Healthcare-BackendProject\E-Healthcare-BackendProject\E-Healthcare-ASP\E-healthcare.Api\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.AssemblyInfo.cs
